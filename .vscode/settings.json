@@ -1,5 +1,6 @@
 {
   "code-runner.runInTerminal": true,
   "kotlin.languageServer.port": 5050,
-  "kotlin.languageServer.transport": "tcp"
+  "kotlin.languageServer.transport": "tcp",
+  "editor.renderWhitespace": "all"
 }
