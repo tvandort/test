@@ -1,0 +1,37 @@
+Given a current score
+
+calculate: Least number of balls
+
+Break -> Keep going until you miss
+
+Break is sequence of balls
+15 red - value 1
+1 yellow - value 2
+1 green - value 3
+1 brown - value 4
+1 blue - value 5
+1 pink - value 6
+1 black - value 7
+
+clear all reds
+
+sink a red then you have to sink a color
+
+max break is 148
+consists of red black red black 15 times
+
+minimising shots / maximising return
+
+going bust is going over / negative
+
+============== starting point ==========
+
+given the current remaining possible
+
+reamining score is 7 6 5 etc
+
+given a number whats the least number of balls that you have to hit
+
+reds do not respawn
+the rest of the colors do respawn
+
